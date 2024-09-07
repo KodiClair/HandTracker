@@ -12,7 +12,7 @@ https://medium.com/@pankajyadav_7739/create-interactive-digital-art-drawing-with
 --------------------------------------------------------------------------
 Description:
 
-  Hand Tracking drawing tool using OpenCV and MediaPipe.
-  (Drawing): Close Index Finger and Thumb
-  (Erasing): Close Middle and Ring finger
-  (Quit): Press 'Q' Key
+  Hand Tracking drawing tool using OpenCV and MediaPipe. |
+  (Drawing): Close Index Finger and Thumb. |
+  (Erasing): Close Middle and Ring finger. |
+  (Quit): Press 'Q' Key.
